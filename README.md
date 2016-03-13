@@ -1,6 +1,9 @@
 # gsw_passing_network
 
 
+![alt text](https://github.com/yukiegosapporo/gsw_passing_network/blob/master/network.png "")
+
+
 Code for [Analyzing Golden State Warriors' passing network using GraphFrames in Spark](http://opiateforthemass.es/articles/analyzing-golden-state-warriors-passing-network-using-graphframes-in-spark/)
 
 

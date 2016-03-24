@@ -1,4 +1,4 @@
-%$SPARK_HOME/bin/pyspark - -packages graphframes: graphframes: 0.1.0-spark1.6
+%$SPARK_HOME/bin/pyspark --packages graphframes: graphframes: 0.1.0-spark1.6
 
 from graphframes import *
 import pandas as pd
